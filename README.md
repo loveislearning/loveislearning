@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Mewwasperfect/Mewwasperfect/blob/main/ai-generated-8519540.jpg" width="300" height="300" alt="Profile Image">
-
 ## Hello I'm Mew🌷
 ### I'm Front/Backend Developer
 
