@@ -1,5 +1,9 @@
-## Hi there 👋
+<div align="center">
 
+## Hello I'm Mew🌷
+### I'm Front/Backend Developer
+
+</div>
 <!--
 **Mewwasperfect/Mewwasperfect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
