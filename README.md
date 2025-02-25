@@ -13,10 +13,10 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mewwasperfect&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shallywasperfect&layout=compact&theme=radical)  
 
 ## 🔥 My GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mewwasperfect&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shallywasperfect&theme=dark)
 <!--
 **Mewwasperfect/Mewwasperfect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
