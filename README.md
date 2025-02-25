@@ -5,6 +5,8 @@
 
 </div>
 
+<div>
+
 ## 🌐 Languages I Know  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,6 +19,9 @@
 
 ## 🔥 My GitHub Stats  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mewwasperfect&theme=dark)
+
+</div>
+
 <!--
 **Mewwasperfect/Mewwasperfect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
