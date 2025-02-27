@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hello I'm Shally🌷
+## Hello I'm Mew🌷
 ### I'm Front/Backend Developer
 
 </div>
@@ -17,10 +17,8 @@
 ## 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mewwasperfect&layout=compact&theme=radical)
 
-## 🔥 My GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mewwasperfect&theme=react)
-
-
+## 🔥 My GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com/?user=mewwasperfect&theme=dark)
 
 </div>
 
