@@ -18,7 +18,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mewwasperfect&layout=compact&theme=radical)
 
 ## 🔥 My GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=mewwasperfect&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mewisgettingperfect&theme=dark)
 
 </div>
 
